@@ -1,0 +1,61 @@
+html{background-color: rgba(228, 225, 225, 0.906);}
+.nav { width: 100%;
+    background-color: dimgrey;
+text-align: left;
+font-family: Gabriola;
+font-size: medium;}
+.name {width: 100%;
+    text-align: left;
+    height: 25px;
+    color: white;
+    font-size: 20px;
+    font-family: Gabriola;
+    background-color: rgb(101, 109, 118);
+    padding: 1px 0 1px 5px;
+    margin: 0;
+    border-color: salmon;
+    border-radius: 5px;
+
+}
+li {list-style: none;
+display: inline-block;
+margin:0;
+padding:0 115px 0 115px ;
+font-family: rockwell;
+font-size:medium;
+background-color: thistle;
+height: 30px;
+border-radius: 25px;
+}
+
+.one, .options:active { background-color: darkviolet;
+transition: cubic-bezier(0.075, 0.82, 0.165, 1);}
+
+.options:hover{background-color: lightpink;}
+
+.nav-bar { background-color: thistle;
+width: 100%;
+height:35px;
+margin:0;
+padding:0 50px;}
+
+#welcome-section {width:100% ;
+height: 50px;
+border-radius: 35px;
+background-color: rgb(189, 185, 185);
+font-family: rockwell;
+text-orientation: upright;
+padding: 0 0 0 20px;
+text-align: center;
+margin-bottom: 10px;}
+
+
+.project-tile {display:inline;
+padding-right: 25px;
+margin:0;}
+
+img {width: 25%;
+height: 150px
+border: solid;
+border-radius: 5px;
+display:in-range;}
